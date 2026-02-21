@@ -1,0 +1,9 @@
+# datasets
+datasets/
+*.zip
+*.csv
+
+# large media
+*.pdf
+*.jfif
+*.png
